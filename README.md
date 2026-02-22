@@ -1,4 +1,4 @@
-![ci.yml badge](https://github.com/dtraid/<REPOSITORY>/actions/workflows/ci.yml/badge.svg)
+![ci.yml badge](https://github.com/dtraid/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
